@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# PGA Charles Schwab Cup Championship
 
 ## Environments
-- Preview: https://main--franklin-the-players--pgatour.hlx.page/
-- Live: https://main--franklin-the-players--pgatour.hlx.live/
+- Preview: https://main--pga-charles-schwab-cup-championship--hlxsites.hlx.page/
+- Live: https://main--pga-charles-schwab-cup-championship--hlxsites.hlx.live/
+- Production: https://www.charlesschwabcupchampionship.com
 
 ## Installation
 
