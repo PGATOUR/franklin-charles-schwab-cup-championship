@@ -1,8 +1,8 @@
 # PGA Charles Schwab Cup Championship
 
 ## Environments
-- Preview: https://main--pga-charles-schwab-cup-championship--hlxsites.hlx.page/
-- Live: https://main--pga-charles-schwab-cup-championship--hlxsites.hlx.live/
+- Preview: https://main--franklin-charles-schwab-cup-championship--pgatour.hlx.page/
+- Live: https://main--franklin-charles-schwab-cup-championship--pgatour.hlx.live/
 - Production: https://www.charlesschwabcupchampionship.com
 
 ## Installation
